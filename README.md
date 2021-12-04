@@ -1,3 +1,4 @@
+
 <img src="./images/vit.gif" width="500px"></img>
 
 ## Table of Contents
